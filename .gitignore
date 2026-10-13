@@ -1,0 +1,18 @@
+# Visual Studio local files
+.vs/
+*.user
+*.suo
+
+# Build folders
+/MyProject/Debug/
+/MyProject/Release/
+**/x64/
+**/x86/
+
+# Generated files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
