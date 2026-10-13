@@ -6,7 +6,8 @@
 int main()
 {
 	// pull request test
-    std::cout << "Hello World!\n";
+	std::cout << "Hello World!\n";
+    std::cout << "Hello Mina!\n";
     std::cout << "This is feature branch!" << std::endl;
     // Master: ADC initialization
 	// add for feature branch
