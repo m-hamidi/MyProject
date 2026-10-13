@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "This is feature branch!" << std::endl;
-
+    // Master: ADC initialization
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
