@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Hello Mina!Welcome to project\n";
+    std::cout << "This is feature branch!" << std::endl;
 
 }
 
