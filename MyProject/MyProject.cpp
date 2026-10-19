@@ -6,7 +6,7 @@
 int main()
 {
 	// pull request test
-	char a = 'a', b='b', c='c', d='d';
+	char a = 'a', b='b', c='c', d='d', m= 'm';
 	std::cout << "Hello World!\n";
     std::cout << "Hello Mina!\n";
     std::cout << "This is feature branch!" << std::endl;
